@@ -37,7 +37,7 @@ body {
 
 .btn1 {
     margin: auto;
-    padding: 0.5rem;
+    padding: 0.5rem 1rem;
     background-color: #48ADF1;
     color: #FFFF;
     border-style: none;
@@ -46,7 +46,7 @@ body {
 
 .btn2 {
     margin: auto;
-    padding: 0.5rem;
+    padding: 0.5rem 1rem;
     background-color: rgba(255, 255, 255, 0.5);
     border-style: groove;
     border-color: rgba(255, 255, 255, 0.9);
