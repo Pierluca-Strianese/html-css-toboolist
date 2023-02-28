@@ -12,12 +12,9 @@ body {
     background-color: #F7F8F9;
 }
 
-.immagine {
-    text-align: center;
-
-}
 
 .titolo {
+    font-family: 'Roboto', sans-serif;
     font-size: 40px;
 }
 
