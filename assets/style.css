@@ -35,7 +35,22 @@ body {
     margin-left: 50px;
 }
 
-.btn {
+.btn1 {
     margin: auto;
     padding: 0.5rem;
+    background-color: #48ADF1;
+    color: #FFFF;
+    border-style: none;
+    border-radius: 10px;
+}
+
+.btn2 {
+    margin: auto;
+    padding: 0.5rem;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-style: groove;
+    border-color: rgba(255, 255, 255, 0.9);
+    color: #CBD0D5;
+    border-radius: 10px;
+    
 }
