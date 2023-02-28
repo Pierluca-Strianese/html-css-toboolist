@@ -1,6 +1,6 @@
 * {
 	box-sizing: border-box;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Calibri', sans-serif;
 }
 
 header {
@@ -69,7 +69,11 @@ ul {
     list-style-type: none;
 }
 
-.cerchio {
+li {
+    padding: 10px;
+}
+
+.cerchiog {
     display: inline-block;
     border-style: solid;
     height: 20px;
@@ -80,4 +84,83 @@ ul {
     color: #59BBA3;
     font-size: 13px;
     border-width: 1px;
+}
+
+.cerchior {
+    display: inline-block;
+    border-style: solid;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    border-color: #FF0000;
+    text-align: center;
+    color: #FF0000;
+    font-size: 13px;
+    border-width: 1px;
+}
+
+.editorial {
+    display: inline-block;
+    width: 70px;
+    background-color: #45ABEA;
+    font-size: 0.85rem;
+    text-align: center;
+    padding: 4px;
+    border-radius: 15px;
+    color: #FFFF;
+}
+
+.Q1 {
+    display: inline-block;
+    width: 70px;
+    background-color: #9C72E4;
+    font-size: 0.85rem;
+    text-align: center;
+    padding: 4px;
+    border-radius: 15px;
+    color: #FFFF;
+}
+
+.recluiting {
+    display: inline-block;
+    width: 70px;
+    background-color: #63C0A9;
+    font-size: 0.85rem;
+    text-align: center;
+    padding: 4px;
+    border-radius: 15px;
+    color: #FFFF;
+}
+
+.mobile {
+    display: inline-block;
+    width: 70px;
+    background-color: #F29E33;
+    font-size: 0.85rem;
+    text-align: center;
+    padding: 4px;
+    border-radius: 15px;
+    color: #FFFF;
+}
+
+.website {
+    display: inline-block;
+    width: 70px;
+    background-color: #D863A1;
+    font-size: 0.85rem;
+    text-align: center;
+    padding: 4px;
+    border-radius: 15px;
+    color: #FFFF;
+}
+
+.sales {
+    display: inline-block;
+    width: 70px;
+    background-color: #B0C927;
+    font-size: 0.85rem;
+    text-align: center;
+    padding: 4px;
+    border-radius: 15px;
+    color: #FFFF;
 }
