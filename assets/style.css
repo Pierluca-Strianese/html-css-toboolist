@@ -1,0 +1,41 @@
+* {
+	box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background-color: #FFFF;
+    padding: 10px;
+}
+
+body {
+    background-color: #F7F8F9;
+}
+
+.immagine {
+    text-align: center;
+
+}
+
+.titolo {
+    font-size: 40px;
+}
+
+.menu {
+    background-color: #FFFF;
+    height: 70px;
+    width: 900px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.pulsanti {
+    height: 70px;
+    line-height: 70px;
+    margin-left: 50px;
+}
+
+.btn {
+    margin: auto;
+    padding: 0.5rem;
+}
