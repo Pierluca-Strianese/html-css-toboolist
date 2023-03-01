@@ -1,5 +1,10 @@
 * {
+    margin: 0;
+    padding: 0;
 	box-sizing: border-box;
+}
+
+html {
     font-family: 'Calibri', sans-serif;
 }
 
@@ -12,10 +17,14 @@ body {
     background-color: #F7F8F9;
 }
 
+.logo{
+    vertical-align: middle;
+}
 
-.titolo {
+h1 {
+    display: inline;
     font-family: 'Roboto', sans-serif;
-    font-size: 40px;
+    vertical-align: middle;
 }
 
 .menu {
